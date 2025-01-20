@@ -1,4 +1,4 @@
 # dio-trilha-java-basico
 Repositório para exemplos do curso Java Básico
 
-Teste de autenticação: ssh
+Teste de autenticação: ssh -1
