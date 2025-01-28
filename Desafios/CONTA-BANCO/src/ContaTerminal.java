@@ -10,16 +10,16 @@ public class ContaTerminal {
 
         //Exibir as mensagens para o usuário
 
-        System.out.print("Por favor, digite o número da conta: ");
+        System.out.println("Por favor, digite o número da conta: ");
         String numero = sc.nextLine();
 
-        System.out.print("Por favor, digite o número da Agência: ");
+        System.out.println("Por favor, digite o número da Agência: ");
         int agencia = sc.nextInt();
 
-        System.out.print("Por favor, digite seu nome: ");
+        System.out.println("Por favor, digite seu nome: ");
         String nome = sc.nextLine();
 
-        System.out.print("Por favor, digite o vslor do deposito: ");
+        System.out.println("Por favor, digite o vslor do deposito: ");
         double saldo = sc.nextDouble();
 
         //Obter pela Scanner os valores digitados no terminal
